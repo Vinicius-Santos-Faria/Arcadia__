@@ -1,6 +1,10 @@
-.cabeçalho{
-
-    background-color: aqua
-;
+.cabeçalho{ 
+    background-color: aqua;
+    display: flex
+    ;
 }
-.Alura.png
+.Alura.png{
+    width: 25;
+}
+
+
